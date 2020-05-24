@@ -1,3 +1,5 @@
 # Hacking_Tools
 
-I will list some tools useful for your practical section.
+Only for Educational purpose.
+
+I am not responsible for your misuse.
